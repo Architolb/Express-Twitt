@@ -8,7 +8,8 @@
   "description": "Express app fir twit clone",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
   },
   "author": "BT",
   "license": "ISC"
